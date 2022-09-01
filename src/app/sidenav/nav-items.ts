@@ -5,9 +5,9 @@ export const navData=[
         label:'Home'
     },
     {
-        route:'calendar',
+        route:'doctor',
         icon:'fa-solid fa-calendar-check',
-        label:'Appointments'
+        label:'Doctors'
     },
     {
         route:'gallery',

@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { IToggle } from './services/IToggle'
+import { IToggle } from './models/IToggle'
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
